@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ipazzxyz!
-- ℹ️ I was born on 03/28/2007, and currently studying in 9th grade.
+- ℹ️ I was born on 03/28/2007, and currently studying in 10th grade in FTL.
 - 👀 I’m interested in programming and gaming.
 - 🌱 I’m currently learning external libraries for python and how to play Dota 2.
 - 💬️ You can contact me via Telegram @ipazzxyz
