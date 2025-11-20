@@ -1,1 +1,24 @@
-<h1>Привет 👋</h1><p><b>Меня зовут Максим</b> и сейчас я обучаюсь на информат профиле в "Физтех-лицее". В данный момент пробую себя в спортивном программировании и занимаюсь углубленным изучением языка C++.</p><hr><p align="center"><img src="https://skillicons.dev/icons?i=cpp,cmake,py,js,bash,git,qt,django,vue,html,css,tailwind&perline=6"/></p>
+# Maksim Boimel
+
+Computer Science student @ MEPhI (Class of ’29).  
+Focused on 3D graphics and computer networks.  
+Languages: English / Russian.
+
+## Tech Stack
+
+- **C++**, CMake, Boost
+- **Graphics:** OpenGL, SFML, SDL, Qt
+- **Python**
+
+## Interests
+
+- Real-time rendering
+- Low-level systems
+- Network protocols
+- Engine internals
+
+## Current Direction
+
+- Building small graphics demos
+- Strengthening OpenGL pipeline knowledge
+- Exploring network stacks
